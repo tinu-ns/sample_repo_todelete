@@ -1,0 +1,6 @@
+[submodule "DB4-task-new"]
+	path = DB4-task-new
+	url = https://github.com/Subikshan0612/DB4-task
+[submodule "libraries/example-library"]
+	path = libraries/example-library
+	url = https://github.com/Subikshan0612/DB4-task
